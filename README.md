@@ -26,12 +26,12 @@ Explore the John Snow Labs (clinical) NLP offerings - tools and pre-trained mode
 
 ### Recommended notebooks (all morning)
 
-... to work through in detail (including all linked recsources)
+... in Healthcare NLP to work through in detail (including all linked recsources)
 
-15. Entity Extraction
-16. Data Analysis
-22. Oncology Models
-4. Automating De-Identification (there are 2 4s)
+1. Entity Extraction (15)
+1. Data Analysis (16)
+3. Oncology Models (22)
+4. Automating De-Identification (4) (there are 2 4s)
 
 Other topics covered in the notebooks:
 - OCR

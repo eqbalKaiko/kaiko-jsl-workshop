@@ -20,8 +20,8 @@ Explore the John Snow Labs (clinical) NLP offerings - tools and pre-trained mode
     - clone the [jsl kaiko notebook repo](https://github.com/kaiko-ai/kaiko-jsl-workshop.git) into your own databricks folder.
     - create your own branch (or team branch).
 - cluster:
-    - start with using the pre-configure [John Snow Labs]() cluster.
-    - if you need to work with custom libraries use [this script](http://) to configure your own cluster. 
+    - start with using the pre-configure [John Snow Labs](https://adb-7719968064477342.2.azuredatabricks.net/?o=7719968064477342#setting/clusters/1022-153323-s2t9tnl1/configuration) cluster.
+    - if you need to work with custom libraries use [this script](https://github.com/kaiko-ai/kaiko-jsl-workshop/blob/main/Install%20JohnSnowLabs%20NLP.py) to configure your own cluster. 
 
 
 ### Recommended notebooks (all morning)

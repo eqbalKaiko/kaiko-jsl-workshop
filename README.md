@@ -56,7 +56,8 @@ Can take form of either
 more to come...
 
 
-## Aditional resources
-- [John Snowlab Github]()
-- [JSL slack]
-- [JSL model hub]
+## Additional resources
+- [John Snowlab Github](https://github.com/JohnSnowLabs/spark-nlp-workshop)
+  - [MT data scraper](https://github.com/JohnSnowLabs/spark-nlp-workshop/blob/master/databricks/python/healthcare_case_studies/mt_scrapper.py)
+- [JSL slack](https://spark-nlp.slack.com/join/shared_invite/zt-lutct9gm-kuUazcyFKhuGY3_0AMkxqA#/shared-invite/email)
+- [JSL model hub](https://nlp.johnsnowlabs.com/models)

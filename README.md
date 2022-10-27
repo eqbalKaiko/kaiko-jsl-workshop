@@ -1,5 +1,6 @@
 # kaiko-jsl-workshop
 
+Use the databricks [kaiko-nki](https://adb-7719968064477342.2.azuredatabricks.net) workspace.
 
 ## Work in teams
 

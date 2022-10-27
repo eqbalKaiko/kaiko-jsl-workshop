@@ -5,12 +5,12 @@
 
 Explore the John Snow Labs (clinical) NLP offerings - tools and pre-trained models.
 
-- ***TEAM A*** - Owen, Robert J., Vlad
-- ***TEAM B*** - Asli, Bala, Ioannis
-- ***TEAM C*** - Nanne, Eqbal, Edwin
+- ***TEAM A*** - Axel, Bala, Vlad
+- ***TEAM B*** - Asli, Edwin, Ioannis
+- ***TEAM C*** - Nanne, Eqbal, Sebastian
 - ***TEAM D*** - Fei, Marijn, Niels
-- ***TEAM E*** - Alexandre, Mark, Sebastian
-- ***TEAM F*** - Axel, Joost
+- ***TEAM E*** - Alexandre, Mark, Robert J.
+- ***TEAM F*** - Owen, Joost
 
 
 
@@ -52,3 +52,11 @@ Can take form of either
 ### Presentation of each group (10min each)
 
 ### Pick topic to deep-dive (all afternoon)
+
+more to come...
+
+
+## Aditional resources
+- [John Snowlab Github]()
+- [JSL slack]
+- [JSL model hub]
